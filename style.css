@@ -1,6 +1,19 @@
-Body {
-    Background-color: pink;
+Body    {
+    Background-color:rgb(247, 187, 59);
 }
-h5  {
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+.About Me{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.anime  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-style: Lucida;
+}
+img {
+    height: 250px; Width: 400px;
+}
+img {
+    height: 250px; Width: 400px
+}
+img {
+    height: 250px; Width: 400px
 }
