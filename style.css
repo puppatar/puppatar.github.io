@@ -1,5 +1,5 @@
 Body    {
-    Background-color:rgb(247, 187, 59);
+    Background-color:rgb(66, 212, 244);
 }
 .About Me{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
@@ -22,5 +22,8 @@ h5  {
 }
 h3  {
     font-family:  verdana;
+}
+.missionbit {
+    Width: 300px; height: 
 }
 
