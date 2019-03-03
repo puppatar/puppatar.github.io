@@ -5,35 +5,32 @@ body    {
     background-color: red;
 }
 .blue {
-     background-color: blue;
+     background-color: black;
 }
 .yellow {
-     background-color: yellow;
+     background-color: red;
 }
 .brown {
-    background-color: brown;
+    background-color: black;
 }
 .green  {
-    background-color: green;
+    background-color: red;
 }
 .yellowgreen    {
-    background-color: yellowgreen;
+    background-color: black;
 }
 .blueviolet {
-    background-color: blueviolet;
+    background-color: red;
 }
 .purple {
-    background-color: purple;
+    background-color: black;
 }
 .black  {
-    background-color: black;
+    background-color: red;
 }
 .block {
     Width: 100px;   height: 100px;  float: left;
 }
 .row {
     clear: both;
-}
-h3  {
-     
 }
