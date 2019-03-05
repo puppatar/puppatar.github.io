@@ -1,29 +1,13 @@
 Body    {
     Background-color:rgb(66, 212, 244);
 }
-.About Me{
+.AboutMe{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}    
+#head nav li   {
+    display: inline-block;
+    font-display: Roboto Condensed;
+    padding: 100px; 
+    margin: 50px;
+    text-align: center;
 }
-.anime  {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
-    font-style: Lucida;
-}
-img {
-    height: 250px; Width: 400px;
-}
-img {
-    height: 250px; Width: 400px
-}
-img {
-    height: 250px; Width: 400px
-}
-h5  {
-     font-family: verdana;
-}
-h3  {
-    font-family:  verdana;
-}
-.missionbit {
-    Width: 300px; height: 
-}
-
