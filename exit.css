@@ -1,3 +1,17 @@
-body{
-    background-image
-}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: -5px;
+    height: 720px;
+    width: 150px;
+    background-color: rgb(255, 101, 30);
+    position: fixed;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 10px;
+  }
